@@ -197,3 +197,9 @@ p {
 #clients .items {
   display: flex;
 }
+
+#clients .items img {
+  display: block;
+  margin: auto;
+  width: 60%;
+}
