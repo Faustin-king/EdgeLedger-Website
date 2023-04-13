@@ -91,6 +91,10 @@ p {
   background: #7ab436;
 }
 
+.list {
+  margin: 0.5rem 0;
+}
+
 /* Navbar */
 #navbar {
   display: flex;
