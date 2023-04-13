@@ -135,3 +135,7 @@ p {
 #showcase .showcase-content a:hover {
   background-color: #83ce2d;
 }
+/* Section: What We Do */
+.items {
+  display: flex;
+}
