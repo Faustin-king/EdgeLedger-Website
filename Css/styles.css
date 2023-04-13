@@ -136,6 +136,12 @@ p {
   background-color: #83ce2d;
 }
 /* Section: What We Do */
-.items {
+#what .items {
   display: flex;
+}
+
+#what .items .item {
+  flex: 1;
+  text-align: center;
+  padding: 1rem;
 }
