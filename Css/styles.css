@@ -157,3 +157,7 @@ p {
 #who {
   display: flex;
 }
+
+#who div {
+  flex: 1;
+}
