@@ -45,6 +45,16 @@ p {
   font-size: 2rem;
 }
 
+.py-1 {
+  padding: 1.5rem;
+}
+.py-2 {
+  padding: 2rem;
+}
+.py-3 {
+  padding: 3rem;
+}
+
 .lead {
   font-size: 1.3rem;
   margin-bottom: 2rem;
