@@ -145,3 +145,10 @@ p {
   text-align: center;
   padding: 1rem;
 }
+
+#what .items .item i {
+  background: #93cb52;
+  padding: 1rem;
+  border-radius: 50%;
+  margin-bottom: 1.5rem;
+}
