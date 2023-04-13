@@ -192,3 +192,8 @@ p {
 #who .who-img {
   background: url(../Img/people.jpg) no-repeat center center/cover;
 }
+
+/* Section: Clients */
+#clients .items {
+  display: flex;
+}
