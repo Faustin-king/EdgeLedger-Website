@@ -95,6 +95,11 @@ p {
   background: #7ab436;
 }
 
+.btn-dark {
+  background: #333;
+  color: #fff;
+}
+
 .list {
   margin: 0.5rem 0;
   list-style: none;
