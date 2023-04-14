@@ -212,3 +212,8 @@ p {
   margin: auto;
   width: 60%;
 }
+
+/* Section: Contact */
+#contact {
+  display: flex;
+}
