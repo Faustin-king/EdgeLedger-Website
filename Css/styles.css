@@ -225,3 +225,7 @@ p {
 #contact .contact-form .form-group {
   margin: 0.76rem;
 }
+
+#contact .contact-form label {
+  display: block;
+}
