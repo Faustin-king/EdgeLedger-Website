@@ -221,3 +221,7 @@ p {
 #contact .contact-form {
   flex: 1;
 }
+
+#contact .contact-form .form-group {
+  margin: 0.76rem;
+}
